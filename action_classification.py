@@ -5,7 +5,7 @@ import os
 from matplotlib import pyplot as plt
 import time
 import mediapipe as mp
-import tensorflow as tf
+import tensorflow as 
 import sklearn
 from tensorflow.keras.models import load_model
 def mediapipe_detection(image, model):
