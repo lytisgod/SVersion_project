@@ -1,5 +1,6 @@
 # 1. New detection variables
 import cv2
+import pandas
 import numpy as np
 import os
 from matplotlib import pyplot as plt
